@@ -1,0 +1,100 @@
+var friends = [
+{
+    name:"Albert",
+    photo:"https://www.biography.com/.image/t_share/MTI2NTMzNDk0MDk5NjgzOTcx/albert-einstein-promojpg.jpg",
+    scores:[
+        3,
+        4,
+        5,
+        5,
+        1,
+        1,
+        5,
+        1,
+        3,
+        4
+    ]
+},
+
+{
+    name:"Hedy",
+    photo:"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hedy_lamarr_-_1940.jpg/220px-Hedy_lamarr_-_1940.jpg",
+    scores:[
+        1,
+        3,
+        1,
+        5,
+        5,
+        3,
+        5,
+        3,
+        5,
+        5
+    ]
+},
+{
+    name:"Alexander",
+    photo:"http://1stmuse.com/frames/alex_greg_matenkoski.JPG",
+    scores:[
+        1,
+        5,
+        5,
+        1,
+        1,
+        5,
+        4,
+        5,
+        3,
+        2
+    ]
+},
+{
+    name:"Grigori",
+    photo:"https://upload.wikimedia.org/wikipedia/commons/9/97/Grigori_Rasputin_1916.jpg",
+    scores:[
+        5,
+        5,
+        2,
+        1,
+        4,
+        1,
+        4,
+        1,
+        5,
+        5
+    ]
+},
+{
+    name:"Mark",
+    photo:"https://media1.britannica.com/eb-media/21/13421-004-A2A61DF4.jpg",
+    scores:[
+        1,
+        1,
+        5,
+        1,
+        2,
+        3,
+        3,
+        4,
+        3,
+        3
+    ]
+},
+{
+    name:"Joan",
+    photo:"https://img.thedailybeast.com/image/upload/v1492180231/articles/2015/06/08/the-joan-of-arc-nobody-knows/150607-oconnor-joan-arc-tease_jgn5sm.jpg",
+    scores:[
+        4,
+        5,
+        1,
+        1,
+        4,
+        3,
+        1,
+        1,
+        5,
+        2
+    ]
+}
+
+];
