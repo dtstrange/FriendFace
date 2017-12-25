@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/dtstrange/FriendFace/issues"
   },
-  "homepage": "https://github.com/dtstrange/FriendFace#readme"
+  "homepage": "https://github.com/dtstrange/FriendFace#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
 }
